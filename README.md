@@ -110,10 +110,14 @@
   </div>
 
   <br>
-
+ 
   <!-- Row 2: Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthan29-code&" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manthan29-code&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 </div>
+<!-- ![Github Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan29-coder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=manthan29-code&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)  
+![Github Contribution Data](https://nirzak-streak-stats.vercel.app/?user=manthan29-code&theme=tokyonight&hide_border=false) -->
+
 
 
