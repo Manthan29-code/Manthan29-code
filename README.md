@@ -1,3 +1,28 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4c1d95,100:A855F7&height=190&section=header&text=Manthan29-code&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=45&descAlignY=100" width="100%"/> 
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=C084FC&center=true&vCenter=true&width=680&height=40&lines=Software+Engineer_;AI+Engineer_;Full+Stack+Developer_;Backend+Developer_;Building+AI-powered+Products_;Turning+Ideas+Into+Production+Systems_;Open+to+SDE+Opportunities_" alt="Typing SVG" /> <picture><sub><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30px"/></sub></picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+  
+</a>
+
+<br/><br/>
+<div style="display: flex; flex-direction: row; align-items: center; gap: 5px; justify-content: center; overflow-wrap: break-word;">
+  <a href="https://www.linkedin.com/in/manthan-movaliya-0601a3287"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="mailto:manthanmovaliya9@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="https://github.com/Manthan29-code"><img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=1a1a2e&labelColor=1a1a2e" /></a>
+</div>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Manthan29-code&style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Manthan29-code?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Manthan29-code?style=for-the-badge&color=C084FC&labelColor=1a1a2e&logo=github&label=STARS" />
+
+</div>
+
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Manthan Movaliya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -20,101 +45,90 @@
 
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
-<!-- Programming Languages -->
-<h4>Programming Languages</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-</p>
-<hr/>
+<div align="center">
 
-<!-- Frameworks & Libraries -->
-<h4>Frameworks & Libraries</h4>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  </a>
-</p>
-<hr/>
+**Languages**
 
-<!-- Databases -->
-<h4>Databases</h4>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  </a>
-</p>
-<hr/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,c,cpp,css,sql&theme=dark" />
 
-<!-- Other Tools -->
-<h4>Other Tools</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img style="margin-left: 10px;" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  </a>
-</p>
-<hr/>
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark" />
+
+<br/><br/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark" />
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis&theme=dark" />
+
+<br/><br/>
+
+**Cloud · DevOps · Deployment**
+
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions,git,github,linux&theme=dark" />
+
+<br/><br/>
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash&theme=dark" />
+
+</div>
+
+
+<br/>
+
+## 📊&nbsp; GitHub Analytics <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
 
 <div align="center">
 
-  <!-- Row 1: Languages + GitHub Stats -->
-  <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manthan29-code&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=manthan29-code&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
-  </div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manthan29-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Manthan29-code&theme=github-dark-blue&hide_border=true"/>
 
-  <br>
- 
-  <!-- Row 2: Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manthan29-code&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan29-code&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan29-code&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e9d5ff" width="100%"/>
 
 </div>
-<!-- ![Github Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan29-coder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=manthan29-code&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)  
-![Github Contribution Data](https://nirzak-streak-stats.vercel.app/?user=manthan29-code&theme=tokyonight&hide_border=false) -->
+
+<br/>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<br/>
+</div>
+
+## 📫&nbsp; Connect With Me <picture><sub><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20px"/></sub></picture>
+
+<div align="center">
+
+**Thanks for visiting.**
+
+*Always learning.* 
+*Always building.* 
+*Always shipping.*
+
+<img src="https://komarev.com/ghpvc/?username=Manthan29-code&style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:4c1d95,100:0d0d17&height=120&section=footer" width="100%"/>
+
+</div>
 
 
 
